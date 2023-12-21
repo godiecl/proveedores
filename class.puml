@@ -1,0 +1,29 @@
+@startuml
+skin rose
+left to right direction
+hide empty members
+set separator none
+
+package cl.ucn.disc.poo.proveedores {
+
+    package domain {
+    }
+
+    package services {
+    }
+
+    package gui {
+    }
+
+}
+
+package javax.swing.table {
+
+    class AbstractTableModel <<abstract>> {
+        ...
+    }
+    AbstractTableModel <|- ProveedoresModel
+
+}
+
+@enduml
