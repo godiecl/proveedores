@@ -28,4 +28,4 @@ Our Java-based Supplier Management Application provides a comprehensive solution
 
 ## License
 
-![License](https://img.shields.io/github/license/godiecl/conserjeria) This project is open-sourced software licensed under the [MIT license](LICENSE.md).
+![License](https://img.shields.io/github/license/godiecl/proveedores) This project is open-sourced software licensed under the [MIT license](LICENSE.md).
